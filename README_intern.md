@@ -43,5 +43,6 @@ https://www.kaggle.com/datasets/yasserh/titanic-dataset
 ## 📸 Screenshots
 
 I’ve added screenshots (optional) for reference if needed.
+![Screenshot 2025-05-26 174536](https://github.com/user-attachments/assets/0b60989a-5489-43e7-812a-8febd047286b)
 
 
